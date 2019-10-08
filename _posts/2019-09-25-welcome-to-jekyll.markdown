@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Templehall!"
 date:   2019-09-25 10:11:55 +0100
 categories: jekyll update
 ---
